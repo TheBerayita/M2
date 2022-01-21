@@ -1,5 +1,5 @@
 package Objetos;
 
 public enum Rol {
-Manager,Boss,Employee,Volunteer
+manager,boss,employee,volunteer,senior,junior,mid
 }
