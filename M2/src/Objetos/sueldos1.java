@@ -9,9 +9,6 @@ public class sueldos1 {
 		case manager:
 			t1.sueldo*=1.10;
 			break;
-		case employee:
-			t1.sueldo*=0.85;
-			break;
 		case senior:
 			t1.sueldo*=0.95;
 			break;
